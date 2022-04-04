@@ -1,4 +1,4 @@
-# The Algorithms - JavaScript
+# The Algorithms - TypeScript
 
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](CONTRIBUTING.md)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/Javascript.svg?logo=lgtm&logoWidth=18&style=flat-square)](https://lgtm.com/projects/g/TheAlgorithms/Javascript/context:javascript)
@@ -8,7 +8,15 @@
 ![](https://img.shields.io/github/repo-size/TheAlgorithms/Javascript.svg?label=Repo%20size&style=flat-square)
 [![standard.js](https://img.shields.io/badge/code%20style-standardjs-%23f3df49)](https://standardjs.com/)
 
-## All algorithms implemented in JavaScript (for educational purposes only)
+## Under Construction - Migrating The Algorithms JavaScript implementations to TypeScript
+
+Forked from [The Algorithms JavaScript](https://github.com/TheAlgorithms/Javascript)
+
+## List of migrated Algorithms
+
+See our [directory](MIGRATED.md)
+
+## All algorithms implemented in TypeScript (for educational purposes only)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheAlgorithms/Javascript)
 
